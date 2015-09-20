@@ -14,4 +14,4 @@ When within 100 meters a toast will appear to alert user, when within 20 meters 
 Screenshots
 -----------
 
-<img src="http://i.imgur.com/NWELVKv.png" width="270" height="480" />
+<img src="http://i.imgur.com/NWELVKv.png" width="270" height="480" border="2" />
