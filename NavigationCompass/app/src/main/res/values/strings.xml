@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationCompass</string>
+    <string name="title_activity_main">Compass Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitudeTxt">Latitude</string>
+    <string name="longitudeTxt">Longitude</string>
+    <string name="firstOpen">OpenedApp</string>
+</resources>
